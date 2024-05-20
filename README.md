@@ -1,6 +1,8 @@
 Spring Boot JWT Authentication example with Spring Security & Spring Data JPA
 User Registration, User Login and Authorization process.
 The diagram shows flow of how we implement User Registration, User Login and Authorization process.
+
+
 ![image](https://github.com/che36/spring-boot-spring-security-jwt-authentication/assets/40279656/52540864-e629-4341-9d17-8d0ac4c06ba1)
 
 Spring Boot Server Architecture with Spring Security
